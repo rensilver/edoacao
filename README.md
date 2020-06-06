@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/925gyJP/logo-edoacao.png)
 
-**Versão Web, baseada no aplicativo Ecoleta desenvolvido pela Rockeseat durante a NextLevelWeek.**
+**Versão Web, baseada no aplicativo Ecoleta desenvolvido pela Rocketseat durante a NextLevelWeek.**
 
 Visa incentivar a prática do bem, da caridade, oferecendo uma plataforma onde é possível encontrar locais em todo Brasil para doar a quem precisa itens que não precisamos mais ou que estejam sobrando.
 Continuarei colocando mais features.
