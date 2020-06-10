@@ -3,9 +3,8 @@
 **Versão Web, baseada no aplicativo Ecoleta desenvolvido pela Rocketseat durante a NextLevelWeek.**
 
 Visa incentivar a prática do bem, da caridade, a ideia é oferecer uma plataforma onde é possível encontrar locais em todo Brasil para doar a quem precisa, itens como brinquedos, alimentos, roupas ou até mesmo animais e cursos, que não precisamos mais ou que estejam sobrando.
-Vou adicionando mais features.
 
-Versão mobile ainda em desenvolvimento.
+Mais features serão adicionadas em breve.
 
 **Tecnologias utilizadas:**
 
